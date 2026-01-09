@@ -1,6 +1,6 @@
 from google import genai
 from flask import Flask, request,jsonify,render_template
-client = genai.Client(api_key="AIzaSyDkiyqYQisFUbJR2har-_tE0zQKUX40_ZI")
+client = genai.Client(api_key="Your_API_KEY")
 app=Flask(__name__)
 @app.route("/")
 def home():
