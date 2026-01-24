@@ -56,3 +56,7 @@ git clone https://github.com/SatyanarayanaChittala24/chat_bot.git
 cd chat_bot
 
 
+### 2️⃣ Create Virtual Environment (Recommended)
+
+```bash
+python -m venv venv
