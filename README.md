@@ -1,22 +1,24 @@
-# 🤖 Chat Bot Web Application
+# 🤖 Gemini AI Chatbot (Flask Web App)
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![Flask](https://img.shields.io/badge/Flask-Web_Framework-black)
+![Gemini](https://img.shields.io/badge/Google-Gemini_AI-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
-![License](https://img.shields.io/badge/License-Open--Source-green)
 
-A **web-based chatbot application** built using **Python and Flask**, with a responsive **HTML, CSS, and JavaScript** frontend.  
-Users can interact with the chatbot through a browser and receive automated responses in real time.
+A **web-based AI chatbot application** built using **Python Flask** and **Google Gemini API**.  
+Users can interact with the chatbot through a browser UI and receive **AI-generated responses in real time**.
+
+> 🚀 This project demonstrates **LLM API integration**, **Flask backend development**, and **frontend–backend communication**.
 
 ---
 
 ## 🚀 Features
 
-- 💬 Real-time chatbot interaction  
-- 🌐 Web-based user interface  
-- 🧠 Python backend logic  
-- 🔁 Frontend–backend communication  
-- 📦 Easy to extend with AI/LLMs  
+- 💬 Real-time AI chatbot responses
+- 🧠 Powered by **Google Gemini (gemini-2.5-flash)**
+- 🌐 Web-based chat interface
+- 🔁 JSON-based API communication
+- 📦 Clean and simple Flask architecture
 
 ---
 
