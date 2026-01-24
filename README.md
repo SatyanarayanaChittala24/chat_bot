@@ -24,3 +24,35 @@ Users can interact with the chatbot through a browser UI and receive **AI-genera
 
 ## 📁 Project Structure
 
+chat_bot/
+├── main.py # Flask backend with Gemini API
+├── templates/
+│ └── index.html # Chat UI
+├── static/
+│ ├── css/
+│ └── js/
+├── requirements.txt # Dependencies
+└── README.md # Documentation
+
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer | Technology |
+|------|-----------|
+| Backend | Python, Flask |
+| AI Model | Google Gemini API |
+| Frontend | HTML, CSS, JavaScript |
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/SatyanarayanaChittala24/chat_bot.git
+cd chat_bot
+
+
